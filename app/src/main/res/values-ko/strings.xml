@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">누마즈에서 뭐 먹지?</string>
+    <string name="textView1_text">업종</string>
+    <string name="textView2_text">지역</string>
+    <string name="textView3_text">sample</string>
+    <string name="button1_text">전체보기</string>
+    <string name="button2_text">바/이자카야</string>
+    <string name="button3_text">카페/베이커리</string>
+    <string name="button4_text">중화요리</string>
+    <string name="button5_text">일식</string>
+    <string name="button6_text">양식</string>
+    <string name="button7_text">국수집</string>
+    <string name="button8_text">전체보기</string>
+    <string name="button9_text">가뉴도</string>
+    <string name="button10_text">누마즈 광역</string>
+    <string name="button11_text">누마즈항</string>
+    <string name="button12_text">역 남쪽</string>
+    <string name="button13_text">역 북쪽</string>
+    <string name="button14_text">우치우라</string>
+    <string name="button15_text">랜덤</string>
+    <string name="switch1_text">영업시간 필터</string>
+    <string name="stamp_button_text">누마즈 스탬프 랠리</string>
+    <string name="stamp_textView1_text">누마즈 스탬프 랠리</string>
+    <string name="stamp_button_1_text">전체보기</string>
+    <string name="stamp_button_2_text">1지구</string>
+    <string name="stamp_button_3_text">2지구</string>
+    <string name="stamp_button_4_text">3지구</string>
+    <string name="stamp_button_5_text">4지구</string>
+    <string name="stamp_button_6_text">5지구</string>
+    <string name="stamp_button_7_text">니시우라</string>
+    <string name="stamp_button_8_text">시즈우라</string>
+    <string name="stamp_button_9_text">우치우라</string>
+    <string name="stamp_button_10_text">기타</string>
+</resources>

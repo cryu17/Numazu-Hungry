@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="type1" translatable="false">all</string>
+    <string name="type2" translatable="false">bar/izakaya</string>
+    <string name="type3" translatable="false">café/bakery</string>
+    <string name="type4" translatable="false">chinese</string>
+    <string name="type5" translatable="false">japanese</string>
+    <string name="type6" translatable="false">western</string>
+    <string name="type7" translatable="false">noodle</string>
+    <string name="type8" translatable="false">all</string>
+    <string name="type9" translatable="false">ganyudo</string>
+    <string name="type10" translatable="false">numazu metropolitan</string>
+    <string name="type11" translatable="false">numazu port</string>
+    <string name="type12" translatable="false">station south</string>
+    <string name="type13" translatable="false">station north</string>
+    <string name="type14" translatable="false">uchiura</string>
+    <string name="type15" translatable="false">random</string>
+    <string name="stamp_button_type" translatable="false">numazu stamp rally</string>
+    <string name="stamp_button_type1" translatable="false">all</string>
+    <string name="stamp_button_type2" translatable="false">AREA1</string>
+    <string name="stamp_button_type3" translatable="false">AREA2</string>
+    <string name="stamp_button_type4" translatable="false">AREA3</string>
+    <string name="stamp_button_type5" translatable="false">AREA4</string>
+    <string name="stamp_button_type6" translatable="false">AREA5</string>
+    <string name="stamp_button_type7" translatable="false">NISHIURA</string>
+    <string name="stamp_button_type8" translatable="false">SHIZUURA</string>
+    <string name="stamp_button_type9" translatable="false">UCHIURA</string>
+    <string name="stamp_button_type10" translatable="false">OTHER</string>
+</resources>
