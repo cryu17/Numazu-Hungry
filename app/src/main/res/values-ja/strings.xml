@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">沼津でなにたべようか？</string>
+    <string name="textView1_text">業種</string>
+    <string name="textView2_text">地域</string>
+    <string name="textView3_text">sample</string>
+    <string name="button2_text">バー・居酒屋</string>
+    <string name="button3_text">カフェ・パン屋</string>
+    <string name="button4_text">中華料理</string>
+    <string name="button5_text">和食</string>
+    <string name="button6_text">洋食</string>
+    <string name="button7_text">そば屋</string>
+    <string name="button8_text">すべて見る</string>
+    <string name="button9_text">我入道</string>
+    <string name="button10_text">沼津広域</string>
+    <string name="button11_text">沼津港</string>
+    <string name="button12_text">駅南</string>
+    <string name="button13_text">駅北</string>
+    <string name="button14_text">内浦</string>
+    <string name="button15_text">ランダム</string>
+    <string name="switch1_text">営業時間外店表示</string>
+    <string name="button1_text">すべて見る</string>
+    <string name="stamp_button_text">沼津まちあるきスタンプ</string>
+    <string name="stamp_textView1_text">沼津まちあるきスタンプ</string>
+    <string name="stamp_button_1_text">すべて見る</string>
+    <string name="stamp_button_2_text">第一地区</string>
+    <string name="stamp_button_3_text">第二地区</string>
+    <string name="stamp_button_4_text">第三地区</string>
+    <string name="stamp_button_5_text">第四地区</string>
+    <string name="stamp_button_6_text">第五地区</string>
+    <string name="stamp_button_7_text">西浦</string>
+    <string name="stamp_button_8_text">静浦</string>
+    <string name="stamp_button_9_text">内浦</string>
+    <string name="stamp_button_10_text">その他</string>
+</resources>

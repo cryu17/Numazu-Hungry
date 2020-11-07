@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Numazu Hungry</string>
+    <string name="textView1_text">RESTAURANT TYPE</string>
+    <string name="textView2_text">REGION</string>
+    <string name="textView3_text">sample</string>
+    <string name="button1_text">all</string>
+    <string name="button2_text">bar/izakaya</string>
+    <string name="button3_text">café/bakery</string>
+    <string name="button4_text">chinese</string>
+    <string name="button5_text">japanese</string>
+    <string name="button6_text">western</string>
+    <string name="button7_text">noodle</string>
+    <string name="button8_text">all</string>
+    <string name="button9_text">ganyudo</string>
+    <string name="button10_text">numazu metropolitan</string>
+    <string name="button11_text">numazu port</string>
+    <string name="button12_text">station south</string>
+    <string name="button13_text">station north</string>
+    <string name="button14_text">uchiura</string>
+    <string name="button15_text">random</string>
+    <string name="switch1_text">Business Hours Filter</string>
+    <string name="stamp_button_text">numazu stamp rally</string>
+    <string name="stamp_textView1_text">Numazu Stamp Rally</string>
+    <string name="stamp_button_1_text">all</string>
+    <string name="stamp_button_2_text">area1</string>
+    <string name="stamp_button_3_text">area2</string>
+    <string name="stamp_button_4_text">area3</string>
+    <string name="stamp_button_5_text">area4</string>
+    <string name="stamp_button_6_text">area5</string>
+    <string name="stamp_button_7_text">nishiura</string>
+    <string name="stamp_button_8_text">shizuura</string>
+    <string name="stamp_button_9_text">uchiura</string>
+    <string name="stamp_button_10_text">other</string>
+</resources>
